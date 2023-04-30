@@ -1,0 +1,50 @@
+body {
+  background-color: aqua;
+}
+.container {
+  background-color: azure;
+  width: 350px;
+  height: 550px;
+  border-radius: 10px;
+  margin: 200px;
+}
+h1 {
+  font-size: x-large;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  margin-top: 40px;
+  margin-left: 30px;
+  padding-top: 30px;
+}
+.box {
+  background-color: rgb(120, 120, 241);
+  width: 290px;
+  height: 180px;
+  border-radius: 10px;
+  margin: 10px 10px 30px 20px;
+  padding: 10px 10px 10px 10px;
+  color: white;
+  font-family: "Roboto Slab", serif;
+  font-size: smaller;
+  display: inline-block;
+}
+form {
+  display: inline-block;
+  padding-left: 30px;
+}
+input {
+  width: 270px;
+  height: 20px;
+  border-radius: 10px;
+  margin: 10px;
+  padding: 5px;
+}
+#Unsuscribe {
+  margin-top: 20px;
+}
+button {
+  border-radius: 10px;
+  margin-left: 200px;
+}
+#star {
+  color: red;
+}
